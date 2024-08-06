@@ -2,7 +2,7 @@
 
 <div align="left">
   
-# Hi, I'm Oleh Linnyk from Ukraine 🇺🇦
+# Hi, I'm Oleh Linnyk
 
 I am a passionate and proficient software engineer with over 10 years of experience specializing in distributed and high-load systems, capable of delivering fast, reliable, and extendable technical solutions to meet business requirements. While my primary programming stack is Java, I am also skilled in Golang, Python, and JavaScript. I am a long-time Linux user who has system administration experience and can support production machines (DevOps role).
 
