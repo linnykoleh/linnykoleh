@@ -12,21 +12,23 @@ I'm a passionate and proficient software engineer with over 10 years of experien
 - 👨🏼‍💻 I'm dedicated to enhancing productivity as a software engineer.
 - 🏆 Fan facts: Exercising, football, and cycling.
 
-## 🤝 Connect with me:
+## 🌐 Connect:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olehlinnyk)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Linnyk_Oleh)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/linnyk_oleh)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linnik.oleg.93@gmail.com)
 
-## 📖 Read My Blogs:
+## 📝 Blogs:
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@linnyk.oleh)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/linnyk_oleh)
 
-## 💡 A Quote:
+## 💡 Quote:
 
 [![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-## 💻 My Tech Stack:
+## 💻 Tech Stack:
 
 ### Frontend:
 
@@ -40,7 +42,7 @@ I'm a passionate and proficient software engineer with over 10 years of experien
 
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,kafka,mongodb,postgres,mysql,git,github,gitlab)](https://skillicons.dev)
 
-## 🏆 My Stats:
+## 🏆 Stats:
 
 ![Oleh's GitHub stats](https://github-readme-stats.vercel.app/api?username=linnykoleh&show_icons=true&theme=dark)
 
