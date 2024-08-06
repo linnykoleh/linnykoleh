@@ -1,15 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Oleh Linnyk
+# Senior Software Engineer
 
-Here are some ideas to get you started:
+## 🤝 Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olehlinnyk)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Linnyk_Oleh)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linnik.oleg.93@gmail.com)
+
+## 📖 Read My Blogs:
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@linnyk.oleh))
+
+
+## 💻 My Tech Stack:
+
+### Frontend:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs)](https://skillicons.dev)
+
+### Backend:
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,go,py,js)](https://dou.ua/users/alla-kaplia/topics/)
+
+### Development Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,kafka,mongodb,postgres,mysql,git,github,gitlab)](https://skillicons.dev)
+
+## 🏆 My Stats:
 
 ![Oleh's GitHub stats](https://github-readme-stats.vercel.app/api?username=linnykoleh&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linnykoleh&hide=TeX&layout=compact)
