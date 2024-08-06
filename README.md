@@ -9,18 +9,18 @@
 
 ## 📖 Read My Blogs:
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@linnyk.oleh))
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@linnyk.oleh)
 
 
 ## 💻 My Tech Stack:
 
 ### Frontend:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
 
 ### Backend:
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,go,py,js)](https://dou.ua/users/alla-kaplia/topics/)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,go,py)](https://skillicons.dev)
 
 ### Development Tools:
 
