@@ -1,7 +1,8 @@
 <div align="left">
   
-# Hi 👋, I'm Oleh Linnyk
-# Senior Software Engineer
+# Hi, I'm Oleh Linnyk Senior Software Engineer
+
+## I am a passionate and proficient software engineer with over 10 years of experience specializing in distributed systems, capable of delivering fast, reliable, and extendable technical solutions to meet business requirements. My main programming stack is Java but I can work with some other technologies such as Golang, Python, and JavaScript. I am a long-time Linux user who has system administration experience and can support production machines (DevOps role). My main experience and specialization are high-load, distributed backend applications.
 
 ## 🤝 Connect with me:
 
