@@ -1,4 +1,4 @@
-[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+<!-- [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://vshymanskyy.github.io/StandWithUkraine) -->
 
 <div align="left">
   
@@ -47,6 +47,6 @@ I am a passionate and proficient software engineer with over 10 years of experie
 
 <!--  [![linnykoleh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=linnykoleh)](https://github.com/linnykoleh/github-readme-activity-graph) -->
 
-[![HitCount](https://hits.dwyl.com/linnykoleh/linnykoleh.svg)](http://hits.dwyl.com/linnykoleh/linnykoleh) 
+[![Viws: ](https://hits.dwyl.com/linnykoleh/linnykoleh.svg)](http://hits.dwyl.com/linnykoleh/linnykoleh) 
 
 </div>
