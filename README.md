@@ -45,7 +45,8 @@ I am a passionate and proficient software engineer with over 10 years of experie
 ![Oleh's GitHub stats](https://github-readme-stats.vercel.app/api?username=linnykoleh&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linnykoleh&hide=TeX&layout=compact&theme=dark&hide_progress=true)
 
-![HitCount](https://hits.dwyl.com/dwyl/hits.svg?style=flat-square)
+[![HitCount](https://hits.dwyl.com/linnykoleh/linnykoleh.svg?style=flat-square)](http://hits.dwyl.com/linnykoleh/linnykoleh)
+
 </div>
 
 
