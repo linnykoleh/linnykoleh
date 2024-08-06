@@ -47,6 +47,6 @@ I am a passionate and proficient software engineer with over 10 years of experie
 
 [![linnykoleh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=linnykoleh)](https://github.com/linnykoleh/github-readme-activity-graph)
 
-  [![HitCount](https://hits.dwyl.com/linnykoleh/linnykoleh.svg?style=react-dark)](http://hits.dwyl.com/linnykoleh/linnykoleh) 
+[![HitCount](https://hits.dwyl.com/linnykoleh/linnykoleh.svg?style=react-dark)](http://hits.dwyl.com/linnykoleh/linnykoleh)
 
 </div>
