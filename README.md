@@ -2,7 +2,8 @@
 
 <div align="left">
 
-![alt text](https://media.licdn.com/dms/image/D4E16AQHOTxYOMSI7AA/profile-displaybackgroundimage-shrink_350_1400/0/1722952783291?e=1728518400&v=beta&t=TtvXW2wrDzbgKIT9QmGhe9m8hnowndlmNvo-2WT1_mI)
+![alt text](https://media.licdn.com/dms/image/D4E16AQEGWUuH9OKgGA/profile-displaybackgroundimage-shrink_350_1400/0/1722953884624?e=1728518400&v=beta&t=71SVUnIPJJqkp9CHU9O01pxoC6AXnN0DByr77vFqUvc)
+
 
   
 # Hi, I'm Oleh Linnyk
