@@ -4,7 +4,7 @@
 
 ![alt text](https://media.licdn.com/dms/image/D4E16AQEGWUuH9OKgGA/profile-displaybackgroundimage-shrink_350_1400/0/1722953884624?e=1728518400&v=beta&t=71SVUnIPJJqkp9CHU9O01pxoC6AXnN0DByr77vFqUvc)
 
-I am a passionate and proficient software engineer with over 10 years of experience specializing in distributed and high-load systems, capable of delivering fast, reliable, and extendable technical solutions to meet business requirements. While my primary programming stack is Java, I am also skilled in Golang, Python, and JavaScript. I am a long-time Linux user who has system administration experience and can support production machines (DevOps role).
+I'm a passionate and proficient software engineer with over 10 years of experience specializing in distributed and high-load systems, capable of delivering fast, reliable, and extendable technical solutions to meet business requirements. While my primary programming stack is Java, I am also skilled in Golang, Python, and JavaScript. I am a long-time Linux user who has system administration experience and can support production machines (DevOps role).
 
 - 💻 I’m currently working at [Megogo](https://megogo.net/ua)
 - 📚 I’m passionate about continuous learning and exploring new knowledge horizons.
