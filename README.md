@@ -1,6 +1,9 @@
 <!-- [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://vshymanskyy.github.io/StandWithUkraine) -->
 
 <div align="left">
+
+![alt text](https://media.licdn.com/dms/image/D4E16AQHOTxYOMSI7AA/profile-displaybackgroundimage-shrink_350_1400/0/1722952783291?e=1728518400&v=beta&t=TtvXW2wrDzbgKIT9QmGhe9m8hnowndlmNvo-2WT1_mI)
+
   
 # Hi, I'm Oleh Linnyk
 
@@ -47,6 +50,6 @@ I am a passionate and proficient software engineer with over 10 years of experie
 
 <!--  [![linnykoleh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=linnykoleh)](https://github.com/linnykoleh/github-readme-activity-graph) -->
 
-[![Viws: ](https://hits.dwyl.com/linnykoleh/linnykoleh.svg)](http://hits.dwyl.com/linnykoleh/linnykoleh) 
+[![Views:](https://hits.dwyl.com/linnykoleh/linnykoleh.svg)](http://hits.dwyl.com/linnykoleh/linnykoleh) 
 
 </div>
