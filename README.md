@@ -2,7 +2,7 @@
   
 # Hi, I'm Oleh Linnyk from Ukraine 🇺🇦
 
-I am a passionate and proficient software engineer with over 10 years of experience specializing in distributed and high-load systems, capable of delivering fast, reliable, and extendable technical solutions to meet business requirements. My main programming stack is Java but I can work with some other technologies such as Golang, Python, and JavaScript. I am a long-time Linux user who has system administration experience and can support production machines (DevOps role).
+I am a passionate and proficient software engineer with over 10 years of experience specializing in distributed and high-load systems, capable of delivering fast, reliable, and extendable technical solutions to meet business requirements. While my primary programming stack is Java, I am also skilled in Golang, Python, and JavaScript. I am a long-time Linux user who has system administration experience and can support production machines (DevOps role).
 
 - 💻 I’m currently working at [Megogo](https://megogo.net/ua)
 - 📚 I’m passionate about continuous learning and exploring new knowledge horizons.
