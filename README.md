@@ -13,6 +13,9 @@
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@linnyk.oleh)
 
+## 💡 A Quote:
+
+[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 💻 My Tech Stack:
 
