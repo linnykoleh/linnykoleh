@@ -12,3 +12,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![Oleh's GitHub stats](https://github-readme-stats.vercel.app/api?username=linnykoleh&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linnykolehj&hide=TeX&layout=compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=linnykolehj.linnykolehj)
