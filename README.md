@@ -8,7 +8,7 @@ I am a passionate and proficient software engineer with over 10 years of experie
 - 📚 I’m passionate about continuous learning and exploring new knowledge horizons.
 - 📝 I’m aiming to write a tech article to share my journey and insights.
 - 👨🏼‍💻 I'm dedicated to enhancing productivity as a software engineer.
-- 🏆 Exercising, football and cycling
+- 🏆 Fan facts: Exercising, football, and cycling.
 
 ## 🤝 Connect with me:
 
