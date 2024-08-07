@@ -2,7 +2,7 @@
 
 <div align="left">
 
-![alt text](https://media.licdn.com/dms/image/D4E16AQEGWUuH9OKgGA/profile-displaybackgroundimage-shrink_350_1400/0/1722953884624?e=1728518400&v=beta&t=71SVUnIPJJqkp9CHU9O01pxoC6AXnN0DByr77vFqUvc)
+<!-- ![alt text](https://media.licdn.com/dms/image/D4E16AQEGWUuH9OKgGA/profile-displaybackgroundimage-shrink_350_1400/0/1722953884624?e=1728518400&v=beta&t=71SVUnIPJJqkp9CHU9O01pxoC6AXnN0DByr77vFqUvc) -->
 
 ---
 
@@ -12,7 +12,7 @@ I'm a passionate and proficient software engineer with over 10 years of experien
 - 📚 I’m passionate about continuous learning and exploring new knowledge horizons.
 - 📝 I’m aiming to write a tech article to share my journey and insights.
 - 👨🏼‍💻 I'm dedicated to enhancing productivity as a software engineer.
-- 🏆 Fan facts: Exercising, football, and cycling.
+- 🏆 Fan facts: Exercising, football, and running.
 
 ---
 
