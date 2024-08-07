@@ -8,7 +8,7 @@
 
 I'm a passionate and proficient software engineer with over 10 years of experience specializing in distributed and high-load systems, capable of delivering fast, reliable, and extendable technical solutions to meet business requirements. While my primary programming stack is Java, I am also skilled in Golang, Python, and JavaScript. I am a long-time Linux user who has system administration experience and can support production machines (DevOps role).
 
-- 💻 I’m currently working at [Megogo](https://megogo.net/ua).
+- 🇺🇦 I’m currently working at [MEGOGO](https://megogo.net/ua).
 - 📚 I’m passionate about continuous learning and exploring new knowledge horizons.
 - 📝 I’m aiming to write a tech article to share my journey and insights.
 - 👨🏼‍💻 I'm dedicated to enhancing productivity as a software engineer.
@@ -16,7 +16,7 @@ I'm a passionate and proficient software engineer with over 10 years of experien
 
 ---
 
-### 🌐 Connect:
+### 🌐 Where to find me:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Linnyk_Oleh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olehlinnyk)
@@ -33,7 +33,7 @@ I'm a passionate and proficient software engineer with over 10 years of experien
 
 ---
 
-### 💻 Tech Stack:
+### 💻 My tech Stack:
 
 #### Frontend:
 
@@ -49,7 +49,7 @@ I'm a passionate and proficient software engineer with over 10 years of experien
 
 ---
 
-### 🏆 Stats:
+### 🏆 My stats:
 
 ![Oleh's GitHub stats](https://github-readme-stats.vercel.app/api?username=linnykoleh&show_icons=true&theme=dark)
 
