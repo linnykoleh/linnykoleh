@@ -2,7 +2,7 @@
 
 <div align="left">
 
-![alt text](../image/cyberpunk-style-wallpapers.jpg) 
+![alt text](cyberpunk-style-wallpapers.jpg) 
 
 ---
 
