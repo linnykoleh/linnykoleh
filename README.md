@@ -2,7 +2,7 @@
 
 <div align="left">
 
-![alt text](https://media.licdn.com/dms/image/D4D16AQGpExNXRfZF_Q/profile-displaybackgroundimage-shrink_350_1400/0/1723012150752?e=1728518400&v=beta&t=1DP7XQv62-oPAtTLUIfPeQlak356OTZfDJHGoTPUpDw)
+<!-- ![alt text](https://media.licdn.com/dms/image/D4D16AQGpExNXRfZF_Q/profile-displaybackgroundimage-shrink_350_1400/0/1723012150752?e=1728518400&v=beta&t=1DP7XQv62-oPAtTLUIfPeQlak356OTZfDJHGoTPUpDw) -->
 
 ---
 
