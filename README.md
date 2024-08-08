@@ -53,6 +53,7 @@ I'm a passionate and proficient software engineer with over 10 years of experien
 
 ![leetcode stat](https://leetcard.jacoblin.cool/linnyk_oleh?theme=dark&font=ABeeZee)
 ![Oleh's GitHub stats](https://github-readme-stats.vercel.app/api?username=linnykoleh&show_icons=true&theme=dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linnykoleh&hide=TeX&layout=compact&theme=dark&hide_progress=true)
 
 <!--  [![linnykoleh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=linnykoleh)](https://github.com/linnykoleh/github-readme-activity-graph) -->
