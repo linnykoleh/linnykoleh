@@ -57,6 +57,8 @@ I'm a passionate and proficient software engineer with over 10 years of experien
 
 <p><img align="left" src="https://leetcard.jacoblin.cool/linnyk_oleh?theme=dark&font=ABeeZee" alt="linnykoleh" /></p>
 
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=linnyk_oleh&" alt="linnyk_oleh" /></p> -->
+
 [![profile views](https://u8views.com/api/v1/github/profiles/9572572/views/day-week-month-total-count.svg)](https://u8views.com/github/linnykoleh)
 
 </div>
