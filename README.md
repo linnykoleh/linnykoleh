@@ -58,6 +58,6 @@ I'm a passionate and proficient software engineer with over 10 years of experien
 
 <!--  [![linnykoleh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=linnykoleh)](https://github.com/linnykoleh/github-readme-activity-graph) -->
 
-[![Views:](https://hits.dwyl.com/linnykoleh/linnykoleh.svg)](http://hits.dwyl.com/linnykoleh/linnykoleh) 
+[![Oleh Linnyk 🇺🇦 profile views](https://u8views.com/api/v1/github/profiles/9572572/views/day-week-month-total-count.svg)](https://u8views.com/github/linnykoleh)
 
 </div>
