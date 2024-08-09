@@ -33,7 +33,7 @@ I'm a passionate and proficient software engineer with over 10 years of experien
 
 ---
 
-### 💻 My tech Stack:
+### 💻 My Tech Stack:
 
 #### Frontend:
 
@@ -51,25 +51,13 @@ I'm a passionate and proficient software engineer with over 10 years of experien
 
 ### 🏆 My stats:
 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=linnykoleh&show_icons=true&theme=dark" alt="linnykoleh" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=linnykoleh&hide=TeX&layout=compact&theme=dark&hide_progress=true" alt="linnykoleh" /></p>
+
 <p><img align="left" src="https://leetcard.jacoblin.cool/linnyk_oleh?theme=dark&font=ABeeZee" alt="linnykoleh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=linnykoleh&show_icons=true&theme=dark" alt="linnykoleh" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=linnykoleh&hide=TeX&layout=compact&theme=dark&hide_progress=true" alt="linnykoleh" /></p>
-
-
-
-
-<!-- ![leetcode stat](https://leetcard.jacoblin.cool/linnyk_oleh?theme=dark&font=ABeeZee)-->
-
-
-<!--  ![Oleh's GitHub stats](https://github-readme-stats.vercel.app/api?username=linnykoleh&show_icons=true&theme=dark) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linnykoleh&hide=TeX&layout=compact&theme=dark&hide_progress=true)--> 
-
-<!-- ![leetcode stat](https://leetcard.jacoblin.cool/linnyk_oleh?theme=dark&font=ABeeZee)-->
-
-<!--  [![linnykoleh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=linnykoleh)](https://github.com/linnykoleh/github-readme-activity-graph) -->
-
-[![Oleh Linnyk 🇺🇦 profile views](https://u8views.com/api/v1/github/profiles/9572572/views/day-week-month-total-count.svg)](https://u8views.com/github/linnykoleh)
+[![profile views](https://u8views.com/api/v1/github/profiles/9572572/views/day-week-month-total-count.svg)](https://u8views.com/github/linnykoleh)
 
 </div>
