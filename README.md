@@ -20,6 +20,7 @@ I'm a passionate and proficient software engineer with over 10 years of experien
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Linnyk_Oleh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olehlinnyk)
+[![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://x.com/LinnykOleh)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/linnyk_oleh)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@linnyk.oleh)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/linnyk_oleh)
