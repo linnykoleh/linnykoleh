@@ -6,7 +6,7 @@
 
 ---
 
-I'm a passionate and proficient software engineer with over 10 years of experience specializing in distributed and high-load systems, capable of delivering fast, reliable, and extendable technical solutions to meet business requirements. While my primary programming stack is Java, I am also skilled in Golang, Python, and JavaScript. I am a long-time Linux user who has system administration experience and can support production machines (DevOps role).
+I'm a passionate and proficient software engineer with over 10 years of experience specializing in distributed and high-load systems. I can deliver fast, reliable, and extendable technical solutions to meet business requirements. While my primary programming stack is `Java`, I'm also skilled in `Golang`, `Python`, and `JavaScript`. I'm a long-time Linux user with system administration experience and can support production machines (DevOps role).
 
 - 🇺🇦 I’m currently working at [MEGOGO](https://megogo.net/ua).
 - 📚 I’m passionate about continuous learning and exploring new knowledge horizons.
@@ -37,7 +37,7 @@ I'm a passionate and proficient software engineer with over 10 years of experien
 
 -->
 
-### 💻 My Tech Stack:
+### 💻 Tech Stack:
 
 #### Frontend:
 
@@ -53,7 +53,7 @@ I'm a passionate and proficient software engineer with over 10 years of experien
 
 ---
 
-### 🏆 My stats:
+### 🏆 Stats:
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=linnykoleh&show_icons=true&theme=dark" alt="linnykoleh" /></p>
 
